@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=220&section=header&text=Diogo%20Tavares%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Analista%20DevOps%20%7C%20Cloud%20Architecture%20%7C%20CI/CD%20%7C%20IaC&descFontSize=18&descAlignY=62&descColor=58a6ff" width="100%" alt="Diogo Tavares Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=220&section=header&text=Diogo%20Tavares%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Config%20%26%20Change%20Management%20%7C%20Em%20Transi%C3%A7%C3%A3o%20para%20DevOps&descFontSize=18&descAlignY=62&descColor=58a6ff" width="100%" alt="Diogo Tavares Banner" />
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Suporte+e+Sustenta%C3%A7%C3%A3o+de+Ambientes+Cr%C3%ADticos;Gerenciamento+de+Configura%C3%A7%C3%A3o+e+Mudan%C3%A7as;Troubleshooting+Avan%C3%A7ado+%7C+An%C3%A1lise+de+Logs+%26+Causa+Raiz;Pr%C3%A1ticas+DevOps%2C+Cloud+Architecture+%26+DevSecOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Suporte+e+Sustenta%C3%A7%C3%A3o+de+Ambientes+Cr%C3%ADticos;Gerenciamento+de+Configura%C3%A7%C3%A3o+e+Mudan%C3%A7as;Governan%C3%A7a+%7C+Descomissionamento+de+Sistemas;Em+transi%C3%A7%C3%A3o+para+DevOps+e+Cloud" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,16 +23,18 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Com mais de **15 anos de experiência** em TI, possuo sólida trajetória no **suporte e sustentação de sistemas críticos**, **gerenciamento de incidentes** e **troubleshooting avançado**. Atuo como elo técnico entre desenvolvimento e operações, com foco na estabilidade e alta disponibilidade das aplicações.
+Com mais de **15 anos de experiência** em TI, possuo sólida trajetória no **suporte e sustentação de sistemas críticos**, **gerenciamento de incidentes** e **troubleshooting avançado**. Atualmente atuo como **Analista de Configuração e Mudanças**, liderando processos de governança técnica e operações estruturadas (como o descomissionamento seguro e encerramento de ciclo de vida de infraestruturas logísticas críticas).
 
-- 🔍 **Troubleshooting & Causa Raiz:** Especialista na investigação de incidentes complexos, análise de logs e suporte operacional direto a aplicações de missão crítica (incluindo App Servers como WebLogic).
-- 🔄 **Config & Change Management:** Ampla vivência na condução e acompanhamento de implantações, controle de versões, releases e mudanças estruturadas.
-- 🛡️ **Segurança & Governança:** Formado em **Segurança Cibernética**, agregando postura defensiva, mitigação de riscos, criação de runbooks e planos de contingência.
-- ☁️ **DevOps & Cloud:** Pós-graduando em **Arquitetura Cloud e DevOps na FIAP**, integrando automação de pipelines, orquestração de contêineres e Infraestrutura como Código (IaC).
+Movido pela evolução tecnológica, estou em processo ativo de **transição de carreira para a área de DevOps e Cloud**. Tenho investido intensamente na construção de laboratórios práticos e na Pós-Graduação para consolidar conhecimentos em automação e infraestrutura moderna.
+
+- 🔄 **Config & Change Management:** Ampla vivência no controle de versões, implantações, releases e mudanças estruturadas de sistemas corporativos.
+- 🔍 **Sustentação & Causa Raiz:** Especialista na investigação de incidentes complexos, análise de logs e suporte operacional a ambientes produtivos (incluindo App Servers).
+- 🛡️ **Segurança & Governança:** Formado em **Segurança Cibernética**, atuando com foco em mitigação de riscos, elaboração de runbooks e gestão do ciclo de vida de aplicações.
+- ☁️ **Foco Atual (DevOps em Formação):** Estudante de **Arquitetura Cloud e DevOps na FIAP**, focando meus laboratórios práticos em Linux, Docker, Kubernetes, Terraform, Ansible e automação de pipelines (CI/CD).
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas (Experiência & Estudos)
 
 <div align="center">
 
@@ -58,8 +60,6 @@ Com mais de **15 anos de experiência** em TI, possuo sólida trajetória no **s
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/DevSecOps-00C7B7?style=for-the-badge&logo=shield&logoColor=white" alt="DevSecOps" />
 
 </div>
@@ -78,7 +78,7 @@ Com mais de **15 anos de experiência** em TI, possuo sólida trajetória no **s
       </td>
     </tr>
   </table>
-  <p><b>AlertMonitoring:</b> Repositório focado em arquitetura de monitoramento, observabilidade e confiabilidade de ambientes, integrando conceitos de DevSecOps para detecção proativa e sustentação de serviços.</p>
+  <p><b>AlertMonitoring:</b> Repositório focado em arquitetura de monitoramento, observabilidade e confiabilidade de ambientes, integrando conceitos de DevSecOps para detecção proativa.</p>
 </div>
 
 ---
@@ -114,5 +114,5 @@ Com mais de **15 anos de experiência** em TI, possuo sólida trajetória no **s
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
-  <p>Foco contínuo em estabilidade, confiabilidade, governança e melhoria contínua de processos operacionais.</p>
+  <p>Foco contínuo em estabilidade, confiabilidade, governança e evolução tecnológica.</p>
 </div>
