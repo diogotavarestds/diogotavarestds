@@ -1,11 +1,21 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=220&section=header&text=Diogo%20Tavares%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Config%20%26%20Change%20Management%20%7C%20Em%20Transi%C3%A7%C3%A3o%20para%20DevOps&descFontSize=18&descAlignY=62&descColor=58a6ff" width="100%" alt="Diogo Tavares Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=220&section=header&text=Diogo%20Tavares%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Config%20%26%20Change%20Management%20%7C%20Em%20Transi%C3%A7%C3%A3o%20para%20DevOps&descFontSize=18&descAlignY=62&descColor=58a6ff" width="100%" alt="Diogo Tavares Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Suporte+e+Sustenta%C3%A7%C3%A3o+de+Ambientes+Cr%C3%ADticos;Gerenciamento+de+Configura%C3%A7%C3%A3o+e+Mudan%C3%A7as;Governan%C3%A7a+de+Ambientes+de+Alta+Complexidade;Em+transi%C3%A7%C3%A3o+para+DevOps+e+Cloud)](https://git.io/typing-svg)
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Suporte+e+Sustenta%C3%A7%C3%A3o+de+Ambientes+Cr%C3%ADticos;Gerenciamento+de+Configura%C3%A7%C3%A3o+e+Mudan%C3%A7as;Governan%C3%A7a+de+Ambientes+de+Alta+Complexidade;Em+transi%C3%A7%C3%A3o+para+DevOps+e+Cloud" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-tavares-da-silva-1a031026/) [![Portfolio](https://img.shields.io/badge/Portfolio-AlertMonitoring-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProjetoDevSecOps/AlertMonitoring)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/diogo-tavares-da-silva-1a031026/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/ProjetoDevSecOps/AlertMonitoring" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-AlertMonitoring-238636?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo" />
+    </a>
+  </p>
 
 </div>
 
